@@ -1,0 +1,15 @@
+Journeys: 20000
+Total rupees: Rs 720000
+Total paise: 72000000
+Fits signed 32-bit int: true
+
+Journeys: 500000
+Total rupees: Rs 18000000
+Total paise: 1800000000
+Fits signed 32-bit int: true
+
+Journeys: 3000000
+Total rupees: Rs 108000000
+Total paise: 10800000000
+Fits signed 32-bit int: false
+

@@ -1,0 +1,9 @@
+Hour (int): 8
+Balance (paise): 10000
+Ratio (double): 2.5
+Category (char): S
+Peak (bool): true
+sizeof(int): 4
+sizeof(long long): 8
+INT_MAX: 2147483647
+LLONG_MAX: 9223372036854775807

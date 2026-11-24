@@ -1,0 +1,6 @@
+Airport weekday peak fare: Rs 72
+Airport weekend fare: Rs 54
+Pass covers Middle: true
+Pass covers Airport: false
+Airport fare paid from card: false
+Remaining balance (paise): 10000

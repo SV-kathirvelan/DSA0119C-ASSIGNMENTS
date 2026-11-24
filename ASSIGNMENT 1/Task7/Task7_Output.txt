@@ -1,0 +1,4 @@
+Procedural accepted: true
+Procedural balance (paise): 8000
+OOP accepted: true
+OOP balance (paise): 8000

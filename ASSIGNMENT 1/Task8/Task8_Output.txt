@@ -1,0 +1,4 @@
+Enter hour (0-23): Hour accepted: 8
+
+Sample invalid-input run (input: abc):
+Enter hour (0-23): Invalid numeric input

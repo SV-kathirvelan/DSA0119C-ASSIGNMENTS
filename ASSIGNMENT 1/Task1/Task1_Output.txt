@@ -1,0 +1,3 @@
+Card ID: MC101
+Balance: Rs 100
+Objects represent passengers, cards, journeys and fare tables.

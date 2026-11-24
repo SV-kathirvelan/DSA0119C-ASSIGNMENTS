@@ -1,0 +1,13 @@
+Account: SB1001
+Balance: 8550
+Last transactions (10):
+Deposit: +400.000000
+Deposit: +500.000000
+Deposit: +600.000000
+Deposit: +700.000000
+Deposit: +800.000000
+Deposit: +900.000000
+Deposit: +1000.000000
+Deposit: +1100.000000
+Deposit: +1200.000000
+Withdraw: -250.000000

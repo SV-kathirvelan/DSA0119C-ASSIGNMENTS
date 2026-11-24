@@ -1,0 +1,8 @@
+Event created: 2 x 3
+Event created: 1 x 2
+Event closed; booked seats at closing: 1
+Event created: 2 x 2
+Event closed; booked seats at closing: 1
+Event created: 0 x 5
+Event closed; booked seats at closing: 0
+Event closed; booked seats at closing: 1

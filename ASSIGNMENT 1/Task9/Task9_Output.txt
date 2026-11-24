@@ -1,0 +1,6 @@
+Inner 07:59 -> Rs 10.00 : PASS
+Inner 08:00 -> Rs 12.00 : PASS
+Middle 10:00 -> Rs 20.00 : PASS
+Middle 17:00 -> Rs 24.00 : PASS
+Outer 19:59 -> Rs 36.00 : PASS
+Outer 20:00 -> Rs 30.00 : PASS

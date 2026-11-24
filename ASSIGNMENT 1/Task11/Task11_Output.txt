@@ -1,0 +1,3 @@
+Calculated peak fare (paise): 1200
+Journey accepted: true
+Remaining balance (paise): 8800

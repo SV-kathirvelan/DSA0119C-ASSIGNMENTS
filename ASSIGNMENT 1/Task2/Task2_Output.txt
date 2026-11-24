@@ -1,0 +1,3 @@
+Fare in paise: 1200
+Peak status: true
+Zone: Inner

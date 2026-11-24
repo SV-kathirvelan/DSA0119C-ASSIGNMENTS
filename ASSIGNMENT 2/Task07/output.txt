@@ -1,0 +1,6 @@
+Operations per design: 1000000
+Latest value (shifting): 999999
+Latest value (circular): 999999
+Shifting time (microseconds): 12469
+Circular time (microseconds): 3648
+Both designs store at most 10 integers.

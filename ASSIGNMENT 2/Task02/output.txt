@@ -1,0 +1,4 @@
+Highest mark: 92
+After moderation: 94
+Const reference: 94
+Returned copy: 94
